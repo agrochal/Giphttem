@@ -1,0 +1,30 @@
+{
+  "name": "giphttem",
+  "version": "1.0.0",
+  "description": "CLI App which uses Giphy API to tweet random gifs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrochal/Giphttem.git"
+  },
+  "keywords": [
+    "Giphy",
+    "Gif",
+    "Twitter",
+    "CLI"
+  ],
+  "author": "Artur Grochal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/agrochal/Giphttem/issues"
+  },
+  "homepage": "https://github.com/agrochal/Giphttem#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "twit": "^2.2.11"
+  }
+}
