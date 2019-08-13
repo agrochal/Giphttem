@@ -8,7 +8,5 @@ CLI App which uses Giphy API to tweet random gifs.
 * You are now ready to use **Giphttem** and tweet random gifs on your Twitter.
 * Type ```node app.js``` to tweet random gif!
 
-![Giphttem](https://agrochal.me/img/giphttem.PNG "Giphttem")
-
 ## License
 BSD-2-Clause
