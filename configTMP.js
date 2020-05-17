@@ -11,7 +11,7 @@ module.exports.keys = {
 }
 
 /*
-   Type here your NASA API key
+   Type here your GIPHY API key
    You can find it here: https://developers.giphy.com/
 */
 
